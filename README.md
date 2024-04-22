@@ -11,6 +11,14 @@ The implementation includes a class `City` to represent each city with coordinat
 ### Usage
 To run the project, execute the main block in the `project1.py` file. The output will be a graphical representation of the best route and a fitness curve showing the optimization progress.
 
+### Visualizations for Project 1
+
+#### Fitness Curve Over Generations
+![Fitness Curve Over Generations](fitness-curve(project1).jpg)
+
+#### Best Route for TSP
+![Best Route for TSP](best-route-tsp(project1).jpg)
+
 ---
 
 ## Project 2: Constrained Optimization using Genetic Algorithm
@@ -27,9 +35,7 @@ A `Member` class represents a potential solution, and the GA evolves a populatio
 ### Usage
 Run the `project2.py` file to execute the optimization process. The results are visualized with a plot showing the inverted cost function values over iterations, indicating the optimization progress.
 
----
-
-### Visualizations
+### Visualizations for Project 2
 
 #### GA Optimization Progress (Project 2)
 ![GA Optimization Progress](GAOptimizationProgess(project2).jpg)
